@@ -1,0 +1,4 @@
+# esto no sirve y capaz rompe las bolas
+src/__pycache__
+# esto porque cada uno lo debe hacer en su propia pc antes de instalar este proyecto
+.venv
